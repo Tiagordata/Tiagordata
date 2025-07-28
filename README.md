@@ -20,4 +20,4 @@ Tecnologias utilizadas
    
    </div><br/>
 
-   "Apaixonado por tencologia. Administrador pivotando para ciência de dados, transformando dados em insights".
+   "Apaixonado por tecnologia. Administrador pivotando para ciência de dados, transformando dados em insights".
